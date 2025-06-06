@@ -1,0 +1,46 @@
+[
+  {
+    "nombre": "Farmacia Bolivia",
+    "sucursal": 1,
+    "direccion": "Ceja - calle 2",
+    "medicamentos": [
+      {
+        "nombre": "Aspirina",
+        "codigo": 201,
+        "tipo": "Dolor",
+        "precio": 1.5
+      },
+      {
+        "nombre": "Antigripal",
+        "codigo": 212,
+        "tipo": "Resfr\u00edo",
+        "precio": 5.0
+      },
+      {
+        "nombre": "Jarabe Dexametasona",
+        "codigo": 303,
+        "tipo": "Tos",
+        "precio": 34.8
+      }
+    ]
+  },
+  {
+    "nombre": "Farmacorp",
+    "sucursal": 2,
+    "direccion": "Av. 16 de julio",
+    "medicamentos": [
+      {
+        "nombre": "Golpex",
+        "codigo": 321,
+        "tipo": "Antinflamatorio Muscular",
+        "precio": 13.5
+      },
+      {
+        "nombre": "Paracetamol",
+        "codigo": 102,
+        "tipo": "Dolor",
+        "precio": 0.5
+      }
+    ]
+  }
+]
